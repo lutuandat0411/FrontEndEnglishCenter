@@ -1,0 +1,48 @@
+.login-form {
+    margin: 200px 50px 200px 150px;
+    max-width: 600px;
+    width: 500px;
+    display: flex !important;
+    justify-content: center !important;
+  }
+.input-group {
+  max-width: 450px;
+}
+.login-form-button {
+    width: 365px;
+  }
+[nz-tabset] {
+  display: flex !important;
+  justify-content: center !important;
+}
+[nz-form] {
+    max-width: 1200px;
+    margin-top: 200px;
+    margin-right: 70px;
+    .sign-up{
+      margin-left: 5px;
+      width: 550px;
+    }
+  }
+[nz-carousel-content] {
+    text-align: center;
+    height: 765px;
+    line-height: 160px;
+    background: #364d79;
+    color: #fff;
+    overflow: hidden;
+  }
+h3 {
+    color: #fff;
+  }
+.login-table{
+    align-self: auto;
+  }
+[nz-form-control]{
+    height: auto;
+  }
+
+[nz-tab] {
+  display: flex !important;
+  justify: center !important;
+}
