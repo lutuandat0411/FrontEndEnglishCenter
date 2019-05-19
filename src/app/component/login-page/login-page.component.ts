@@ -56,5 +56,5 @@ export class LoginPageComponent implements OnInit {
       agree: [false]
     });
   }
-  array = [1, 2, 3];
+  array = [1, 2, 3, 4];
 }
